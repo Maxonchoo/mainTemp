@@ -1,1 +1,5 @@
-console.log(`Maxim`);
+function temp (name){
+    console.log('My name ' + name);
+}
+
+temp("Maxim");
